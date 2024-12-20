@@ -2,4 +2,3 @@
 This is task 1 in my Git assignment.
 Adding this line in the feature branch
 Adding this line in the main branch of txt file
-adding this line to revert 
